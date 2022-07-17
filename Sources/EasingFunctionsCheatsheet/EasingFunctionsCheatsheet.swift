@@ -4,7 +4,7 @@
 // Taken from https://easings.net
 //
 // Translated to Swift by MOH 7 17 2022
-
+//
 
 import UIKit
 
