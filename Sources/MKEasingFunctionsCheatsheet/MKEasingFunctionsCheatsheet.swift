@@ -1,5 +1,5 @@
 //
-// EasingFunctionsCheatsheet.swift
+// MKEasingFunctionsCheatsheet.swift
 //
 // Taken from https://easings.net
 //
