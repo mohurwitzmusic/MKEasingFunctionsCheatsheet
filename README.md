@@ -1,3 +1,3 @@
-# EasingFunctionsCheatsheet
+# MKEasingFunctionsCheatsheet
 
-A description of this package.
+A Swift translation of the easing functions from https://easings.net
